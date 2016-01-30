@@ -1,7 +1,7 @@
 ﻿<?php
 mb_internal_encoding('UTF-8');
 $pageTitle = 'Въвеждане на нов автор';
-include 'includes/header.php';
+include 'header.php';
 
 	if (isset($_GET['delete_author'])) {
 		$authorId =  $_GET['delete_author'];
@@ -69,5 +69,5 @@ include 'includes/header.php';
 	?>
 </table>
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

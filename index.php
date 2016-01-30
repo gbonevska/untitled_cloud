@@ -1,7 +1,7 @@
 ﻿<?php
 mb_internal_encoding('UTF-8');
 $pageTitle='Списък с книги и автори';
-include 'includes/header.php';
+include 'header.php';
 ?>
 <a href="books.php"> Нова книга </a> | 
 <a href="authors.php"> Автори </a> | 
@@ -67,5 +67,5 @@ include 'includes/header.php';
 ?>
 </table>
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

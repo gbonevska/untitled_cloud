@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding('UTF-8');
 $pageTitle = 'Редактиране на автор';
-include 'includes/header.php';
+include 'header.php';
 
 	if (isset($_GET['update_author'])) {
 		$authorId = (int) $_GET['update_author'];
@@ -37,5 +37,5 @@ include 'includes/header.php';
 </form>
 <p></p>
 <?php
-	include 'includes/footer.php';
+	include 'footer.php';
 ?>

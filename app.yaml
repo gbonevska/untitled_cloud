@@ -5,15 +5,6 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /includes
-  static_dir: includes
-
-- url: /
-  script: index.php
-
-- url: /index.php
-  script: ../index.php
-
 - url: /books.php
   script: books.php
 
@@ -24,12 +15,25 @@ handlers:
   script: collections.php
 
 - url: /functions.php
-  script: includes/functions.php
+  script: functions.php
 
 - url: /header.php
-  script: includes/header.php
+  script: header.php
 
 - url: /footer.php
-  script: includes/footer.php
+  script: footer.php
 
+- url: /
+  script: index.php
 
+- url: /index.php
+  script: index.php
+
+- url: /updateAuthors.php
+  script: updateAuthors.php
+
+- url: /updateBooks.php
+  script: updateBooks.php
+
+- url: /updateCollections.php
+  script: updateCollections.php

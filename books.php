@@ -1,7 +1,7 @@
 ﻿<?php
 mb_internal_encoding('UTF-8');
 $pageTitle = 'Въвеждане на нова книга';
-include 'includes/header.php';
+include 'header.php';
 
 	if($_POST && $_POST['submitted'] == "Въведи"){
 		$bookName = ''; 
@@ -100,5 +100,5 @@ include 'includes/header.php';
 	</div>
 </form>
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

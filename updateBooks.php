@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding('UTF-8');
 $pageTitle = 'Редакция на книга';
-include 'includes/header.php';
+include 'header.php';
 
 	$bookOldCollectionName = array();
 	$bookOldAuthors = array();
@@ -131,5 +131,5 @@ include 'includes/header.php';
 	</div>
 </form>
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

@@ -1,7 +1,7 @@
 ﻿<?php
 mb_internal_encoding('UTF-8');
 $pageTitle = 'Въвеждане на нова колекция';
-include 'includes/header.php';
+include 'header.php';
 
 	if (isset($_GET['delete_collection'])) {
 		$collectionId =  $_GET['delete_collection'];
@@ -48,5 +48,5 @@ include 'includes/header.php';
 	?>
 </table>
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

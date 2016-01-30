@@ -1,5 +1,5 @@
 ﻿<?php
-	$db = new mysqli("localhost", "biblio_google", "", "biblio_google_app");
+	$db = new mysqli("", "biblio_google", "", "biblio_google_app");
 	if ($db->connect_errno) {
 		echo "Failed to connect to MySQL: (" . $db->connect_errno . ") " . $db->connect_error;
 	}
