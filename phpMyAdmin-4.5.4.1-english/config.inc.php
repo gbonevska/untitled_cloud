@@ -13,7 +13,7 @@ $cfg['blowfish_secret'] = 'Z$Yk5#*@)T7Hi)6B}Q~dzslyx7XdfyNv6)S9'; /* YOU MUST FI
 $i = 0;
 
 // Change this to use the project and instance that you've created.
-$host = '/cloudsql/mylibrary-1205:biblio';
+$host = '/cloudsql/mylibrary-1205:library';
 $type = 'socket';
 
 /*
