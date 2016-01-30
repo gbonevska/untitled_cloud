@@ -1,0 +1,35 @@
+application: mylibrary-1205
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /includes
+  static_dir: includes
+
+- url: /
+  script: index.php
+
+- url: /index.php
+  script: ../index.php
+
+- url: /books.php
+  script: books.php
+
+- url: /authors.php
+  script: authors.php
+
+- url: /collections.php
+  script: collections.php
+
+- url: /functions.php
+  script: includes/functions.php
+
+- url: /header.php
+  script: includes/header.php
+
+- url: /footer.php
+  script: includes/footer.php
+
+
