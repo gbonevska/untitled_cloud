@@ -1,5 +1,11 @@
 ﻿<?php
-	$db = new mysqli("localhost", "biblio_google_user", "", "library");
+	$db = new mysqli(null,
+		"biblio_google_user", //username
+		"", // password
+		"library", //dbname
+		null,
+		'/cloudsql/mylibrary-1205:library' // host
+		);
 	if ($db->connect_errno) {
 		echo "Failed to connect to MySQL: (" . $db->connect_errno . ") " . $db->connect_error;
 	}

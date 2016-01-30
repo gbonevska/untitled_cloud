@@ -35,36 +35,36 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03269231">
-              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.41379312">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding>
-                <marker date="1454174990248" expanded="true" signature="670:1654" placeholder="SELECT DISTI... books_authors" />
-                <marker date="1454174990248" expanded="true" signature="2970:3063" placeholder="SELECT autho... authors" />
-                <marker date="1454174990248" expanded="true" signature="4055:4148" placeholder="SELECT count... books_authors" />
-                <marker date="1454174990248" expanded="true" signature="5079:5128" placeholder="DELETE FROM " />
-                <marker date="1454174990248" expanded="true" signature="5702:5887" placeholder="SELECT colle... collections" />
-                <marker date="1454174990248" expanded="true" signature="6958:7226" placeholder="SELECT count... books_authors" />
-                <marker date="1454174990248" expanded="true" signature="7844:7943" placeholder="UPDATE books... " />
-                <marker date="1454174990248" expanded="true" signature="8430:8492" placeholder="DELETE FROM " />
-                <marker date="1454174990248" expanded="true" signature="8845:8927" placeholder="DELETE FROM " />
-                <marker date="1454174990248" expanded="true" signature="9713:9934" placeholder="SELECT * FRO... ${$table}" />
-                <marker date="1454174990248" expanded="true" signature="10914:11093" placeholder="SELECT * FRO... ${$table}" />
-                <marker date="1454174990248" expanded="true" signature="12442:13486" placeholder="SELECT DISTI... books_authors" />
-                <marker date="1454174990248" expanded="true" signature="15320:16364" placeholder="SELECT DISTI... books_authors" />
-                <marker date="1454174990248" expanded="true" signature="17763:17795" placeholder="DELETE FROM " />
-                <marker date="1454174990248" expanded="true" signature="18111:18151" placeholder="DELETE FROM " />
-                <marker date="1454174990248" expanded="true" signature="21504:21652" placeholder="SELECT book_... books" />
-                <marker date="1454174990248" expanded="true" signature="22604:22781" placeholder="SELECT colle... collections" />
-                <marker date="1454174990248" expanded="true" signature="23750:23905" placeholder="SELECT autho... authors" />
-                <marker date="1454174990248" expanded="true" signature="25235:25371" placeholder="UPDATE books... " />
-                <marker date="1454174990248" expanded="true" signature="26535:26624" placeholder="UPDATE colle... " />
-                <marker date="1454174990248" expanded="true" signature="27324:27397" placeholder="UPDATE autho... " />
-                <marker date="1454174990248" expanded="true" signature="28148:28206" placeholder="INSERT INTO books... " />
-                <marker date="1454174990248" expanded="true" signature="28234:28320" placeholder="INSERT INTO books... " />
-                <marker date="1454174990248" expanded="true" signature="29560:29637" placeholder="INSERT INTO ${$table}... " />
-                <marker date="1454174990248" expanded="true" signature="30855:30950" placeholder="INSERT INTO books_authors... " />
-                <marker date="1454174990248" expanded="true" signature="31709:31785" placeholder="INSERT INTO books_authors... " />
-                <marker date="1454174990248" expanded="true" signature="32743:32783" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="758:1742" placeholder="SELECT DISTI... books_authors" />
+                <marker date="1454175880258" expanded="true" signature="3058:3151" placeholder="SELECT autho... authors" />
+                <marker date="1454175880258" expanded="true" signature="4143:4236" placeholder="SELECT count... books_authors" />
+                <marker date="1454175880258" expanded="true" signature="5167:5216" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="5790:5975" placeholder="SELECT colle... collections" />
+                <marker date="1454175880258" expanded="true" signature="7046:7314" placeholder="SELECT count... books_authors" />
+                <marker date="1454175880258" expanded="true" signature="7932:8031" placeholder="UPDATE books... " />
+                <marker date="1454175880258" expanded="true" signature="8518:8580" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="8933:9015" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="9801:10022" placeholder="SELECT * FRO... ${$table}" />
+                <marker date="1454175880258" expanded="true" signature="11002:11181" placeholder="SELECT * FRO... ${$table}" />
+                <marker date="1454175880258" expanded="true" signature="12530:13574" placeholder="SELECT DISTI... books_authors" />
+                <marker date="1454175880258" expanded="true" signature="15408:16452" placeholder="SELECT DISTI... books_authors" />
+                <marker date="1454175880258" expanded="true" signature="17851:17883" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="18199:18239" placeholder="DELETE FROM " />
+                <marker date="1454175880258" expanded="true" signature="21592:21740" placeholder="SELECT book_... books" />
+                <marker date="1454175880258" expanded="true" signature="22692:22869" placeholder="SELECT colle... collections" />
+                <marker date="1454175880258" expanded="true" signature="23838:23993" placeholder="SELECT autho... authors" />
+                <marker date="1454175880258" expanded="true" signature="25323:25459" placeholder="UPDATE books... " />
+                <marker date="1454175880258" expanded="true" signature="26623:26712" placeholder="UPDATE colle... " />
+                <marker date="1454175880258" expanded="true" signature="27412:27485" placeholder="UPDATE autho... " />
+                <marker date="1454175880258" expanded="true" signature="28236:28294" placeholder="INSERT INTO books... " />
+                <marker date="1454175880258" expanded="true" signature="28322:28408" placeholder="INSERT INTO books... " />
+                <marker date="1454175880258" expanded="true" signature="29648:29725" placeholder="INSERT INTO ${$table}... " />
+                <marker date="1454175880258" expanded="true" signature="30943:31038" placeholder="INSERT INTO books_authors... " />
+                <marker date="1454175880258" expanded="true" signature="31797:31873" placeholder="INSERT INTO books_authors... " />
+                <marker date="1454175880258" expanded="true" signature="32831:32871" placeholder="DELETE FROM " />
               </folding>
             </state>
           </provider>
@@ -73,8 +73,18 @@
       <file leaf-file-name="config.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpMyAdmin-4.5.4.1-english/config.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.sample.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpMyAdmin-4.5.4.1-english/config.sample.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.5">
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -148,8 +158,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1105" />
-    <option name="y" value="38" />
+    <option name="x" value="1194" />
+    <option name="y" value="35" />
     <option name="width" value="1400" />
     <option name="height" value="969" />
   </component>
@@ -296,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1105" y="38" width="1400" height="969" extended-state="0" />
+    <frame x="1194" y="35" width="1400" height="969" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30491328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -430,14 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpMyAdmin-4.5.4.1-english/config.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -454,38 +456,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpMyAdmin-4.5.4.1-english/config.sample.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.5">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpMyAdmin-4.5.4.1-english/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03269231">
-          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.41379312">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding>
-            <marker date="1454174990248" expanded="true" signature="670:1654" placeholder="SELECT DISTI... books_authors" />
-            <marker date="1454174990248" expanded="true" signature="2970:3063" placeholder="SELECT autho... authors" />
-            <marker date="1454174990248" expanded="true" signature="4055:4148" placeholder="SELECT count... books_authors" />
-            <marker date="1454174990248" expanded="true" signature="5079:5128" placeholder="DELETE FROM " />
-            <marker date="1454174990248" expanded="true" signature="5702:5887" placeholder="SELECT colle... collections" />
-            <marker date="1454174990248" expanded="true" signature="6958:7226" placeholder="SELECT count... books_authors" />
-            <marker date="1454174990248" expanded="true" signature="7844:7943" placeholder="UPDATE books... " />
-            <marker date="1454174990248" expanded="true" signature="8430:8492" placeholder="DELETE FROM " />
-            <marker date="1454174990248" expanded="true" signature="8845:8927" placeholder="DELETE FROM " />
-            <marker date="1454174990248" expanded="true" signature="9713:9934" placeholder="SELECT * FRO... ${$table}" />
-            <marker date="1454174990248" expanded="true" signature="10914:11093" placeholder="SELECT * FRO... ${$table}" />
-            <marker date="1454174990248" expanded="true" signature="12442:13486" placeholder="SELECT DISTI... books_authors" />
-            <marker date="1454174990248" expanded="true" signature="15320:16364" placeholder="SELECT DISTI... books_authors" />
-            <marker date="1454174990248" expanded="true" signature="17763:17795" placeholder="DELETE FROM " />
-            <marker date="1454174990248" expanded="true" signature="18111:18151" placeholder="DELETE FROM " />
-            <marker date="1454174990248" expanded="true" signature="21504:21652" placeholder="SELECT book_... books" />
-            <marker date="1454174990248" expanded="true" signature="22604:22781" placeholder="SELECT colle... collections" />
-            <marker date="1454174990248" expanded="true" signature="23750:23905" placeholder="SELECT autho... authors" />
-            <marker date="1454174990248" expanded="true" signature="25235:25371" placeholder="UPDATE books... " />
-            <marker date="1454174990248" expanded="true" signature="26535:26624" placeholder="UPDATE colle... " />
-            <marker date="1454174990248" expanded="true" signature="27324:27397" placeholder="UPDATE autho... " />
-            <marker date="1454174990248" expanded="true" signature="28148:28206" placeholder="INSERT INTO books... " />
-            <marker date="1454174990248" expanded="true" signature="28234:28320" placeholder="INSERT INTO books... " />
-            <marker date="1454174990248" expanded="true" signature="29560:29637" placeholder="INSERT INTO ${$table}... " />
-            <marker date="1454174990248" expanded="true" signature="30855:30950" placeholder="INSERT INTO books_authors... " />
-            <marker date="1454174990248" expanded="true" signature="31709:31785" placeholder="INSERT INTO books_authors... " />
-            <marker date="1454174990248" expanded="true" signature="32743:32783" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="758:1742" placeholder="SELECT DISTI... books_authors" />
+            <marker date="1454175880258" expanded="true" signature="3058:3151" placeholder="SELECT autho... authors" />
+            <marker date="1454175880258" expanded="true" signature="4143:4236" placeholder="SELECT count... books_authors" />
+            <marker date="1454175880258" expanded="true" signature="5167:5216" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="5790:5975" placeholder="SELECT colle... collections" />
+            <marker date="1454175880258" expanded="true" signature="7046:7314" placeholder="SELECT count... books_authors" />
+            <marker date="1454175880258" expanded="true" signature="7932:8031" placeholder="UPDATE books... " />
+            <marker date="1454175880258" expanded="true" signature="8518:8580" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="8933:9015" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="9801:10022" placeholder="SELECT * FRO... ${$table}" />
+            <marker date="1454175880258" expanded="true" signature="11002:11181" placeholder="SELECT * FRO... ${$table}" />
+            <marker date="1454175880258" expanded="true" signature="12530:13574" placeholder="SELECT DISTI... books_authors" />
+            <marker date="1454175880258" expanded="true" signature="15408:16452" placeholder="SELECT DISTI... books_authors" />
+            <marker date="1454175880258" expanded="true" signature="17851:17883" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="18199:18239" placeholder="DELETE FROM " />
+            <marker date="1454175880258" expanded="true" signature="21592:21740" placeholder="SELECT book_... books" />
+            <marker date="1454175880258" expanded="true" signature="22692:22869" placeholder="SELECT colle... collections" />
+            <marker date="1454175880258" expanded="true" signature="23838:23993" placeholder="SELECT autho... authors" />
+            <marker date="1454175880258" expanded="true" signature="25323:25459" placeholder="UPDATE books... " />
+            <marker date="1454175880258" expanded="true" signature="26623:26712" placeholder="UPDATE colle... " />
+            <marker date="1454175880258" expanded="true" signature="27412:27485" placeholder="UPDATE autho... " />
+            <marker date="1454175880258" expanded="true" signature="28236:28294" placeholder="INSERT INTO books... " />
+            <marker date="1454175880258" expanded="true" signature="28322:28408" placeholder="INSERT INTO books... " />
+            <marker date="1454175880258" expanded="true" signature="29648:29725" placeholder="INSERT INTO ${$table}... " />
+            <marker date="1454175880258" expanded="true" signature="30943:31038" placeholder="INSERT INTO books_authors... " />
+            <marker date="1454175880258" expanded="true" signature="31797:31873" placeholder="INSERT INTO books_authors... " />
+            <marker date="1454175880258" expanded="true" signature="32831:32871" placeholder="DELETE FROM " />
           </folding>
         </state>
       </provider>
